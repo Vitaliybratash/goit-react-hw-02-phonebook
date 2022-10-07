@@ -1,4 +1,3 @@
-import { PropTypes } from "prop-types";
 import { nanoid } from 'nanoid';
 import { Component } from 'react';
 export class ContactForm extends Component {
